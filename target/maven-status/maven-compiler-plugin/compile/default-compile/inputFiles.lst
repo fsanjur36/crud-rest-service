@@ -1,0 +1,8 @@
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/user/UserService.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/user/User.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/exception/ErrorDetails.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/user/UserRepository.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/exception/UserExceptionController.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/user/UserAPI.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/CrudProjectApplication.java
+/home/fernan78/spring/test/crud-project/src/main/java/com/example/demo/exception/UserNotFoundException.java
