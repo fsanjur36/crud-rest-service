@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>crud-project</artifactId>
+	<artifactId>crud-rest-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>crud-project</name>
-	<description>Demo project for Spring Boot</description>
+	<name>crud-rest-service</name>
+	<description>Crud Rest Webservice project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
